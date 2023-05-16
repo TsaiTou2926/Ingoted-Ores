@@ -1,4 +1,4 @@
-# Ores To Ingot
+# Ingoted Ores
 
 ## Feature
 
@@ -13,6 +13,8 @@ Emerald -> Diamond Ingot
 
 Lapis -> Lapis Ingot
 
+Quartz -> Quartz Ingot
+
 ### Text changed: 
 
 Coal -> Coal Ingot
@@ -23,7 +25,9 @@ Emerald -> Emerald Ingot
 
 Lapis -> Lapis Ingot
 
-## Lang support
+Quartz -> Quartz Ingot
+
+## Languages support
 
 1. EN_US
 1. ZH_CN
@@ -38,3 +42,6 @@ HandMade.
 ### Sofeware?
 
 GIMP 2.10.32
+
+## Where I can download it?
+At our [Modrinth Page](https://modrinth.com/resourcepack/ingoted-ores)
